@@ -1,6 +1,5 @@
 # 💫 About Me:
-# 👋 Hi there, I'm Phong Đặng!<br><br>🔭 I’m currently working on [ThinkLab](https://thinklab-pi.vercel.app) — a collaborative research platform designed to streamline scientific writing, AI-assisted editing, and real-time collaboration.<br><br>🌱 I’m currently diving deep into **NestJS** to level up my backend architecture skills.<br><br>💬 Ask me about:<br>- Building scalable and collaborative web apps<br>- AI-integrated editors and productivity tools<br><br>⚡ Fun fact: I can turn caffeine into code and bugs into features 😄<br><br>---<br><br>Feel free to connect, contribute, or just say hi!<br>
-## 🌐 Socials:
+# 👋 Hi there, I'm Phong Đặng!<br><br>🔭 I’m currently working on [ThinkLab](https://thinklab-pi.vercel.app) — a collaborative research platform designed to streamline scientific writing, AI-assisted editing, and real-time collaboration.<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dang.phong.752) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morphinee_29) 
 
 # 💻 Tech Stack:
