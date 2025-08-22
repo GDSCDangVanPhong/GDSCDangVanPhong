@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 👋 Hi there, I'm Phong Đặng!<br><br>🔭 I’m currently working on [ThinkLab](https://thinklab-pi.vercel.app) — a collaborative research platform designed to streamline scientific writing, AI-assisted editing, and real-time collaboration.<br>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dang.phong.752) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morphinee_29) 
 
 # 💻 Tech Stack:
